@@ -37,4 +37,5 @@ This project aims to revitalize AtliQ Grands' market position in the luxury hote
 ## Contact
 Achal Yadav - [www.linkedin.com/in/achalyadav007]
 
-live dashboard Link: https://bit.ly/3YphLOb
+Live dashboard Link: https://bit.ly/3YphLOb
+Video Presentation Link:https://www.linkedin.com/posts/achalyadav007_dataanalysis-hospitality-businessintelligence-activity-7225075961040429057-QGcH?utm_source=share&utm_medium=member_desktop
