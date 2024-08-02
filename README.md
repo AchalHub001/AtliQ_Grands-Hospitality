@@ -35,6 +35,6 @@ This project aims to revitalize AtliQ Grands' market position in the luxury hote
 - Codebasics for providing the opportunity
 
 ## Contact
-Achal Yadav - [ay180230@gmail.com]
+Achal Yadav - [www.linkedin.com/in/achalyadav007]
 
 live dashboard Link: https://bit.ly/3YphLOb
